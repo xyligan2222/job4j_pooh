@@ -1,1 +1,1 @@
-[![codecov](https://codecov.io/gh/xyligan2222/job4j_design/branch/master/graph/badge.svg)](https://codecov.io/gh/xyligan2222/job4j_pooh)
+[![codecov](https://codecov.io/gh/xyligan2222/job4j_pooh/branch/master/graph/badge.svg)](https://codecov.io/gh/xyligan2222/job4j_pooh)
