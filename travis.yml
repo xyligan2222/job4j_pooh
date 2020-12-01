@@ -22,4 +22,4 @@ notifications:
     recipients:
       -xyligan2222@yandex.ru
     on_success: never # default: change
-    o
+    on_failure: always # default: always
